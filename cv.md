@@ -2,10 +2,10 @@
 
 ## Contacts
 
-- Location: Minsk, Belarus
-- Phone: +375 29 263 71 08
-- E-mail: dmitryrakovich@yandex.by
-- GitHub: [dmitry-rakovich](https://github.com/dmitry-rakovich)
+- __Location__: Minsk, Belarus
+- __Phone:__ +375 29 263 71 08
+- __E-mail:__ dmitryrakovich@yandex.by
+- __GitHub:__ [dmitry-rakovich](https://github.com/dmitry-rakovich)
 
 ## Skills
 - HTML5
@@ -14,11 +14,11 @@
 - Git (Github)
 
 ## Education
-- University: Belarusian State University of Informatics and Radioelectronics, Bachelor, Radiotechnics (2012 - 2017)
-- Courses:
+- __University:__ Belarusian State University of Informatics and Radioelectronics, Bachelor, Radiotechnics (2012 - 2017)
+- __Courses:__
   - [TeachMeSkills](https://teachmeskills.by/)
 
 
 ## Languages
-- English: A2
-- Russian: Native 
+- __English:__ A2
+- __Russian:__ Native 
